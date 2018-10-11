@@ -9,7 +9,7 @@ end
 
 
 def not_safe?(speed)
-  speed > 
+  #speed > 
 	#conditional ? action_if_true : action_if_false
 end
 	
